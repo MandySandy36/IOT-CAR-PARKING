@@ -49,5 +49,5 @@ while 1:
     display.lcd_display_string("Slot2 Free  ",2)
     time.sleep(0.1)
 
-  
+  #/ i am happy mehatab
 
